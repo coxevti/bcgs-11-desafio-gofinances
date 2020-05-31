@@ -20,4 +20,8 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+  .active {
+    border-bottom: 2px solid #FF872C;
+    padding-bottom: 10px;
+  }
 `;
